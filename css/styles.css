@@ -1,0 +1,23 @@
+header {
+    border-bottom: #7d97ad thick solid;
+}
+
+.title, .subtitle {
+    text-transform: uppercase;
+    text-align: end;
+    color: #2d3c49;
+}
+
+.projects-heading {
+    color: #7d97ad;
+}
+
+.project-title {
+    text-transform: uppercase;
+}
+
+.logo {
+    display: block;
+    margin-right: auto;
+    margin-bottom: auto;
+}
